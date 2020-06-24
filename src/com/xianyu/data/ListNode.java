@@ -1,4 +1,4 @@
-package com.xianyu.asset;
+package com.xianyu.data;
 
 public class ListNode {
 

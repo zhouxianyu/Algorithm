@@ -1,6 +1,6 @@
 package com.xianyu.creator;
 
-import com.xianyu.asset.ListNode;
+import com.xianyu.data.ListNode;
 
 public class ListNodeCreator {
 

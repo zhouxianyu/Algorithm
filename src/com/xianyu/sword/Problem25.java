@@ -1,6 +1,6 @@
 package com.xianyu.sword;
 
-import com.xianyu.asset.ListNode;
+import com.xianyu.data.ListNode;
 import com.xianyu.creator.ListNodeCreator;
 
 public class Problem25 {

@@ -1,7 +1,7 @@
 package com.xianyu.sword;
 
 
-import com.xianyu.asset.ListNode;
+import com.xianyu.data.ListNode;
 
 /**
  * 题目描述
