@@ -1,15 +1,9 @@
 package com.xianyu.sword;
 
+import com.xianyu.asset.ListNode;
+
 public class Problem22 {
 
-    public static class ListNode {
-        int val;
-        ListNode next = null;
-
-        ListNode(int val) {
-            this.val = val;
-        }
-    }
 
     public ListNode FindKthToTail(ListNode head, int k) {
         if (head == null || k < 0) {
